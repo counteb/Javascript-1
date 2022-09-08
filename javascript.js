@@ -1,1 +1,1 @@
-alert(':)This is a crazy website!!!!!!!!!!!!!');
+lert(':)This is a crazy website!!!!!!!!!!!!!');

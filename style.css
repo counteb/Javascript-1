@@ -1,0 +1,64 @@
+:root {
+    --clr-primary-100: #ECF0F1;
+    --clr-primary-200: #FEEF02;
+    --clr-primary-300: #FAA800;
+    --clr-primary-700: #6a4b9b;
+
+    --ff-primary: verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: var(--ff-primary);
+    font-weight: 400;
+    font-size: 1.3125rem;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1;
+}
+
+.all {
+    background-image: url(img/pic1.jpg);
+    background-size: cover;
+}
+
+.header {
+    background-image: url(img/pic5.jpg);
+    background-size: cover;
+}
+
+
+.img1,
+.img2,
+.img3 {
+    max-width: 19em;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.h2,
+.h3 {
+    padding-bottom: .7em;
+}
+
+.d1b1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    width: 110px;
+}
+
+.d1 {
+    padding: 1rem;
+}
